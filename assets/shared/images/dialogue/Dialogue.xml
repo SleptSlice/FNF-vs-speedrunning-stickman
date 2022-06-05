@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialogue.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf0000" x="7" y="7" width="403" height="407"/>
+	<SubTexture name="scaredbf0000" x="495" y="7" width="397" height="407"/>
+	<SubTexture name="gf0000" x="7" y="499" width="296" height="414"/>
+	<SubTexture name="stickman0000" x="388" y="499" width="212" height="418"/>
+</TextureAtlas>

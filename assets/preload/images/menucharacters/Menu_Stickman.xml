@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Stickman.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Stickman Idle0000" x="7" y="7" width="169" height="323" frameX="-1" frameY="-4" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0001" x="7" y="7" width="169" height="323" frameX="-1" frameY="-4" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0002" x="231" y="7" width="169" height="325" frameX="-1" frameY="-2" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0003" x="231" y="7" width="169" height="325" frameX="-1" frameY="-2" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0004" x="7" y="387" width="169" height="327" frameX="0" frameY="0" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0005" x="7" y="387" width="169" height="327" frameX="0" frameY="0" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0006" x="7" y="387" width="169" height="327" frameX="0" frameY="0" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0007" x="7" y="387" width="169" height="327" frameX="0" frameY="0" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0008" x="7" y="387" width="169" height="327" frameX="0" frameY="0" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0009" x="7" y="387" width="169" height="327" frameX="0" frameY="0" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0010" x="7" y="387" width="169" height="327" frameX="0" frameY="0" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0011" x="7" y="387" width="169" height="327" frameX="0" frameY="0" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0012" x="7" y="387" width="169" height="327" frameX="0" frameY="0" frameWidth="170" frameHeight="327"/>
+	<SubTexture name="M Stickman Idle0013" x="7" y="387" width="169" height="327" frameX="0" frameY="0" frameWidth="170" frameHeight="327"/>
+</TextureAtlas>

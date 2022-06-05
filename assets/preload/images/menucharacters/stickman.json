@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Stickman",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"idle_anim": "M Stickman Idle",
+	"confirm_anim": "M Stickman Idle"
+}

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Speed.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down note speed instance 10000" x="7" y="7" width="180" height="332" frameX="0" frameY="0" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10001" x="7" y="7" width="180" height="332" frameX="0" frameY="0" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10002" x="242" y="7" width="181" height="330" frameX="0" frameY="-2" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10003" x="242" y="7" width="181" height="330" frameX="0" frameY="-2" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10004" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10005" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10006" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10007" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10008" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10009" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10010" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10011" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10012" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10013" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="down note speed instance 10014" x="478" y="7" width="181" height="331" frameX="-2" frameY="-4" frameWidth="183" frameHeight="335"/>
+	<SubTexture name="idle speed instance 10000" x="714" y="7" width="169" height="323" frameX="-1" frameY="-3" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10001" x="714" y="7" width="169" height="323" frameX="-1" frameY="-3" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10002" x="7" y="394" width="169" height="324" frameX="0" frameY="-2" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10003" x="7" y="394" width="169" height="324" frameX="0" frameY="-2" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10004" x="231" y="394" width="169" height="326" frameX="0" frameY="0" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10005" x="231" y="394" width="169" height="326" frameX="0" frameY="0" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10006" x="231" y="394" width="169" height="326" frameX="0" frameY="0" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10007" x="231" y="394" width="169" height="326" frameX="0" frameY="0" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10008" x="231" y="394" width="169" height="326" frameX="0" frameY="0" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10009" x="231" y="394" width="169" height="326" frameX="0" frameY="0" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10010" x="231" y="394" width="169" height="326" frameX="0" frameY="0" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10011" x="231" y="394" width="169" height="326" frameX="0" frameY="0" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10012" x="231" y="394" width="169" height="326" frameX="0" frameY="0" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="idle speed instance 10013" x="231" y="394" width="169" height="326" frameX="0" frameY="0" frameWidth="170" frameHeight="326"/>
+	<SubTexture name="left note speed instance 10000" x="455" y="394" width="196" height="317" frameX="-4" frameY="0" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10001" x="455" y="394" width="196" height="317" frameX="-4" frameY="0" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10002" x="706" y="394" width="198" height="315" frameX="-2" frameY="-2" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10003" x="706" y="394" width="198" height="315" frameX="-2" frameY="-2" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10004" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10005" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10006" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10007" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10008" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10009" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10010" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10011" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10012" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10013" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10014" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="left note speed instance 10015" x="7" y="775" width="201" height="313" frameX="0" frameY="-4" frameWidth="201" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10000" x="263" y="775" width="196" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10001" x="263" y="775" width="196" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10002" x="514" y="775" width="196" height="316" frameX="-3" frameY="-1" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10003" x="514" y="775" width="196" height="316" frameX="-3" frameY="-1" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10004" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10005" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10006" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10007" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10008" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10009" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10010" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10011" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10012" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10013" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10014" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="right note speed instance 10015" x="765" y="775" width="196" height="315" frameX="-4" frameY="-2" frameWidth="200" frameHeight="317"/>
+	<SubTexture name="up note speed instance 10000" x="7" y="1147" width="202" height="322" frameX="0" frameY="-2" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10001" x="7" y="1147" width="202" height="322" frameX="0" frameY="-2" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10002" x="264" y="1147" width="198" height="323" frameX="-1" frameY="-1" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10003" x="264" y="1147" width="198" height="323" frameX="-1" frameY="-1" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10004" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10005" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10006" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10007" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10008" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10009" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10010" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10011" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10012" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10013" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10014" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+	<SubTexture name="up note speed instance 10015" x="517" y="1147" width="198" height="324" frameX="-1" frameY="0" frameWidth="202" frameHeight="324"/>
+</TextureAtlas>

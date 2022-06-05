@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Today I will teach you how to speedrun a rap battle.",
+			"boxState": "normal",
+			"sound": "Stickman",
+			"speed": 0.05,
+			"portrait": "Stickman"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I will go easy.",
+			"boxState": "normal",
+			"sound": "Stickman",
+			"speed": 0.05,
+			"portrait": "Stickman"
+		},
+		{
+			"expression": "talk",
+			"text": "beep.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

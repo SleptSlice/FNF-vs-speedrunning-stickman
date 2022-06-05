@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Speed", "speed", [243, 243, 243]],
+		["Running", "speed", [243, 243, 243]],
+		["Stickman", "speed", [243, 243, 243]]
+	],
+
+	"weekCharacters": [
+		"stickman",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "grassland",
+
+	"storyName": "Speedrunning",
+	"weekBefore": "stickman",
+	"weekName": "stickman",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

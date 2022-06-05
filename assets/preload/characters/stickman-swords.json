@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle speed"
+		},
+		{
+			"offsets": [
+				-33,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left note speed"
+		},
+		{
+			"offsets": [
+				-42,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down note speed"
+		},
+		{
+			"offsets": [
+				-46,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up note speed"
+		},
+		{
+			"offsets": [
+				-37,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right note speed"
+		},
+		{
+			"offsets": [
+				-13,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "thown speed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Speed_sword",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "speed",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		243,
+		243
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

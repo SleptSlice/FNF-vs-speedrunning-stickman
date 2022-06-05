@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 1.4,
+		"stage": "grassLandSunset",
+		"player1": "bf",
+		"player2": "stickman",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.06"
+					]
+				]
+			],
+			[
+				1297.2972972973,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.09"
+					]
+				]
+			],
+			[
+				2594.59459459459,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.12"
+					]
+				]
+			],
+			[
+				3891.89189189189,
+				[
+					[
+						"Add Camera Zoom",
+						"0.035",
+						"0.15"
+					]
+				]
+			],
+			[
+				5189.18918918919,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15567.5675675676,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				41513.5135135135,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 185,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Running"
+	}
+}

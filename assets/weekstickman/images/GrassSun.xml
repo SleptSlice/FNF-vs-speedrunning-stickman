@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GrassSun.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GrassSun0000" x="7" y="7" width="249" height="236" frameX="0" frameY="-2" frameWidth="250" frameHeight="240"/>
+	<SubTexture name="GrassSun0001" x="7" y="7" width="249" height="236" frameX="0" frameY="-2" frameWidth="250" frameHeight="240"/>
+	<SubTexture name="GrassSun0002" x="311" y="7" width="250" height="238" frameX="0" frameY="-2" frameWidth="250" frameHeight="240"/>
+	<SubTexture name="GrassSun0003" x="311" y="7" width="250" height="238" frameX="0" frameY="-2" frameWidth="250" frameHeight="240"/>
+	<SubTexture name="GrassSun0004" x="616" y="7" width="247" height="234" frameX="0" frameY="-2" frameWidth="250" frameHeight="240"/>
+	<SubTexture name="GrassSun0005" x="616" y="7" width="247" height="234" frameX="0" frameY="-2" frameWidth="250" frameHeight="240"/>
+	<SubTexture name="GrassSun0006" x="7" y="300" width="247" height="234" frameX="-1" frameY="0" frameWidth="250" frameHeight="240"/>
+	<SubTexture name="GrassSun0007" x="7" y="300" width="247" height="234" frameX="-1" frameY="0" frameWidth="250" frameHeight="240"/>
+	<SubTexture name="GrassSun0008" x="309" y="300" width="247" height="234" frameX="0" frameY="0" frameWidth="250" frameHeight="240"/>
+	<SubTexture name="GrassSun0009" x="309" y="300" width="247" height="234" frameX="0" frameY="0" frameWidth="250" frameHeight="240"/>
+</TextureAtlas>
